@@ -1,0 +1,9 @@
+#TODO LIST
+
+[]Gestione del File .obj
+  [] Classe Model --> Rappresenta l'oggetto vero e proprio
+  [] Classe Faces --> Per gestire la parte delle face nella classe Model
+  [] Classe Loader --> Prende il file .obj e lo trasforma nell'oggetto Model restituendolo tramite un metodo
+
+[]Visualizzazione su JVM
+  (...work in progress...)
