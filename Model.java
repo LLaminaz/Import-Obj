@@ -1,6 +1,6 @@
 
 //package importobj;
-import javax.vecmath.*;
+import org.lwjgl.*;
 
 public class Model
 {
@@ -10,7 +10,7 @@ public class Model
 
   public Model()
   {
-    
+
   }
 
   public Model(ArrayList<Vector3f> vertex_par, ArrayList<Vector3f> normal_par, ArrayList<Vector3f> faces_par)
