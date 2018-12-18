@@ -1,6 +1,6 @@
 
 //package importobj;
-import javax.vecmath.*;
+import org.lwjgl.*;
 import java.util.*;
 
 /*
@@ -22,6 +22,6 @@ public class Face
   public Face(Vector3f vertex_par,Vector3f normal_par)
   {
     vertex=vertex_par;
-    normal=nromal_par;
+    normal=normal_par;
   }
 }
