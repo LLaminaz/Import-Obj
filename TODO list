@@ -6,5 +6,5 @@
   [V] Classe Loader --> Prende il file .obj e lo trasforma nell'oggetto Model restituendolo tramite un metodo
 
 []Visualizzazione su JVM
-  [] lwjgl e openGL
+  [V] lwjgl e openGL
   [] Classe Visualizer
